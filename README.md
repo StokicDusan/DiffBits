@@ -13,5 +13,6 @@ $ pip install -r requirements.txt
 $ git clone https://github.com/StokicDusan/DiffBits.git
 $ cd DiffBits/
 ```
+
 #### 2. Launch
 In the command line simply invoke the scripts:
