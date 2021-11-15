@@ -1,10 +1,11 @@
 from colorama import Fore, Back, Style, init
+import sys, os
 init()
 
 def divide(string):
 	return [char for char in string]
 
-def main():
+def main(argv):
     string1 = input("String 1: ")
     string2 = input("String 2: ")
 
@@ -36,4 +37,9 @@ def output(string,length,diff_array):
 		pass
 
 main()
-print(Style.RESET_ALL)
+if __name__ == "__main__":
+    if(sys.argv[1:]):
+        main(sys.argv[1])
+    else:
+        print("no file passed \n")
+    print(Style.RESET_ALL)
