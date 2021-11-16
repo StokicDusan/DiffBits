@@ -2,9 +2,6 @@ from colorama import Fore, Back, Style, init
 import sys, os
 init()
 
-def divide(string):
-    return [char for char in string]
-
 def main(filePath):
     file1 = open(filePath,'r')
     linije = file1.readlines()
