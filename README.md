@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Commit-activity][commit-activity-shield]][commit-activity-url]
+[![Issues][issues-shield]][issues-url]
+[![Repo-size][repo-size-shield]][repo-size-url]
+[![License][license-shield]][license-url]  
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Welcome to DiffBits
 Script Inspire by Samy Kamkar's "DiffBits" software
 
@@ -30,10 +38,26 @@ Name of the file
 #### 3. Test the script
 The script can be tested using the test_bits file provided in the repo.
 
-<img src="/assets/screenshotDiffBits.png" align="left" width="auto" height="auto" />
+<img src="/assets/screenshotDiffBits.png" width="auto" height="auto" />
 
 ## Provide Feedback 👍
 
 If you encounter any bugs or have suggestions, please file an issue in the
 [Issues][issues-url]
 section of the project.
+
+[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/DiffBits
+[contributors-url]: https://github.com/StokicDusan/DiffBits/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StokicDusan/DiffBits?style=social
+[forks-url]: https://github.com/StokicDusan/DiffBits/network/members
+[issues-shield]: https://img.shields.io/github/issues/StokicDusan/DiffBits
+[issues-url]: https://github.com/StokicDusan/DiffBits/issues
+[commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/DiffBits
+[commit-activity-url]: https://github.com/StokicDusan/DiffBits/graphs/commit-activity
+[license-url]: https://github.com/StokicDusan/DiffBits/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/StokicDusan/DiffBits
+[repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/DiffBits
+[repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/DiffBits
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/stokicdusan
+
