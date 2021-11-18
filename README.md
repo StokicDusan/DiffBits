@@ -18,7 +18,7 @@ This script require the colorama package. To install the package, execute:
 $ pip install -r requirements.txt
 ```
 
-## How to use it
+## How to use the script
 #### 1. Clone this repository:
 ```bash
 $ git clone https://github.com/StokicDusan/DiffBits.git
