@@ -34,7 +34,7 @@ $ python3 diffbits.py argv1
 * argv1:  
 Name of the file  
 
-:warning: *Note:* Other input will result in an error
+:warning: *Note:* file has to be in the working directory.
 
 #### 3. Test the script
 The script can be tested using the test_bits file provided in the repo.
