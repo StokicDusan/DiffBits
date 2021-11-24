@@ -7,8 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Welcome to DiffBits
-Script for labelling differences in bits.  
-Inspired by Samy Kamkar's "DiffBits" software.
+Script for labelling differences in bits. Inspired by Samy Kamkar's "DiffBits" software.
 
 ## What does the script do?
 The script prints bits from a passed file with highlighted bits that match in all bit strings. Bits should be stored as a string in a textual file.
