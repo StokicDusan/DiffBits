@@ -16,18 +16,18 @@ def main(filePath):
             diff_array.append("s") if all(str(item[i])=='0' for item in linije) or all(str(item[i])=='1' for item in linije) else diff_array.append("d")
         except IndexError:
             diff_array.append("l")
-    for item in linije:
-        output(item,diff_array)
+    for linija in linije:
+        output(linija,diff_array)
 
-def output(string,diff_array):
+def output(linija,diff_array):
     try:
-        for diff,string in zip(diff_array, string):
+        for linija,diff in zip(linija, diff_array):
             if diff == "d":
-                print(Fore.WHITE + string, end="")
+                print(Fore.WHITE + linija, end="")
             elif diff == "s":
-                print(Fore.GREEN + string, end="")
+                print(Fore.GREEN + linija, end="")
             elif diff == "l":
-                print(Fore.YELLOW + string, end="")
+                print(Fore.YELLOW + linija, end="")
     except IndexError:
         pass
     print()
