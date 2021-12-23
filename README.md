@@ -1,4 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![Commit-activity][commit-activity-shield]][commit-activity-url]
 [![Issues][issues-shield]][issues-url]
 [![Repo-size][repo-size-shield]][repo-size-url]
@@ -42,12 +41,8 @@ The script can be tested using the test_bits file provided in the repo.
 
 ## Provide Feedback 👍
 
-If you encounter any bugs or have suggestions, please file an issue in the
-[Issues][issues-url]
-section of the project.
+If you encounter any bugs or have suggestions, please file an issue in the [Issues][issues-url] section of the project.
 
-[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/DiffBits
-[contributors-url]: https://github.com/StokicDusan/DiffBits/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/StokicDusan/DiffBits?style=social
 [forks-url]: https://github.com/StokicDusan/DiffBits/network/members
 [issues-shield]: https://img.shields.io/github/issues/StokicDusan/DiffBits
@@ -60,4 +55,3 @@ section of the project.
 [repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/DiffBits
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/stokicdusan
-
